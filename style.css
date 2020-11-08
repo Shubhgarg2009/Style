@@ -1,0 +1,36 @@
+h1 {
+    color:blueviolet;  
+    margin-left: 300px;
+}
+.name{
+    background-color:lightgreen ;
+    border:dashed;
+    border-width: 30px;
+    border-color: aqua;
+}
+.images{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:lightgreen;
+}
+.h4{
+    background:pink;
+    color: blue;
+}
+.Gh{
+background-color: greenyellow;
+align-self: center;
+}
+.images4{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly ;
+    background-color:lightcoral;
+}
+.P{
+    color: red;
+}
+.Thank{
+    color:crimson;
+}
